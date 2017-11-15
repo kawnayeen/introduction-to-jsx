@@ -15,14 +15,14 @@ function defaultTrueValue(props) {
 
 class App extends Component {
     render() {
-        //return this._0_sayHelloJSX();
+        return this._0_sayHelloJSX();
         //return this._0_thisIsHowSayHelloInterpreted();
         //return this._1_embeddingExpression(3, 4);
         //return this._2_JSXItselfAnExpression();
         //return this._3_specifyingAttribute();
         //return this._4_customComponentShouldBeCapitalized();
         //return this._5_stringLiteral();
-        return this._6_defaultPropsValueIsTrue();
+        //return this._6_defaultPropsValueIsTrue();
     }
 
     _0_sayHelloJSX() {
